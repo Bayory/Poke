@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "cobblemon_cosmetics",
+  "version": "${version}",
+  "name": "Cobblemon Cosmetics",
+  "description": "Adds cosmetic items and slots to Cobblemon Pokémon.",
+  "authors": ["YourName"],
+  "contact": {
+    "homepage": "https://github.com/YourName/cobblemon-cosmetics",
+    "sources": "https://github.com/YourName/cobblemon-cosmetics"
+  },
+  "license": "MIT",
+  "icon": "assets/cobblemon_cosmetics/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.cobblemoncosmetics.CobblemonCosmetics"],
+    "client": ["com.cobblemoncosmetics.client.CobblemonCosmeticsClient"]
+  },
+  "mixins": [
+    "cobblemon_cosmetics.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "cobblemon": "*"
+  }
+}

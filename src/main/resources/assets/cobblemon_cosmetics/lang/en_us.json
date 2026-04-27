@@ -1,0 +1,21 @@
+{
+  "itemgroup.cobblemon_cosmetics.cosmetics": "Cobblemon Cosmetics",
+
+  "item.cobblemon_cosmetics.fire_crown": "Fire Crown",
+  "item.cobblemon_cosmetics.water_crown": "Water Crown",
+  "item.cobblemon_cosmetics.sparkle_wings": "Sparkle Wings",
+  "item.cobblemon_cosmetics.golden_stripes": "Golden Stripes",
+  "item.cobblemon_cosmetics.rainbow_aura": "Rainbow Aura",
+  "item.cobblemon_cosmetics.shadow_cape": "Shadow Cape",
+  "item.cobblemon_cosmetics.star_tail": "Star Tail",
+
+  "cobblemon_cosmetics.applied": "Applied %s to %s!",
+  "cobblemon_cosmetics.removed": "Removed cosmetic from slot %d.",
+
+  "cobblemon_cosmetics.tooltip.cosmetic_id": "§7ID: %s",
+  "cobblemon_cosmetics.tooltip.slot": "§7Slot: %d",
+  "cobblemon_cosmetics.tooltip.how_to_use": "§eRight-click a Pokémon to apply.",
+
+  "cobblemon_cosmetics.slot.empty": "Empty Cosmetic Slot %d",
+  "cobblemon_cosmetics.slot.occupied": "Slot %d: %s"
+}
